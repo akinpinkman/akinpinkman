@@ -3,7 +3,7 @@
 <a href='https://www.linkpicture.com/view.php?img=LPic64fd886c47418897298564'><img src='https://www.linkpicture.com/q/github-banner.jpg' type='image'></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akinpinkman&label=Profile%20views&color=0e75b6&style=flat" alt="akinpinkman" /> </p>
 # 💫 About Me:
-🌱 I’m currently learning Typescript<br><br>👨‍💻 All of my projects are available at My Portfolio<br><br>💬 Ask me about React, Javascript, CSS<br><br>📫 How to reach me akinbilgin@akinbilginwriting.com
+🌱 I’m currently learning Typescript<br><br>👨‍💻 All of my projects are available at My Portfolio<br><br>💬 Ask me about React, Javascript, CSS<br><br>📫 How to reach me akinbilgin@akinbilginwriting.com<br><br>
 [![](https://visitcount.itsvg.in/api?id=akinpinkman&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
