@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akın Bilgin</h1>
 <h3 align="center">I am a React Developer living in Turkey. Apart from being a developer, I write guides and articles about games.</h3>
+
 <a href='https://www.linkpicture.com/view.php?img=LPic64fd886c47418897298564'><img src='https://www.linkpicture.com/q/github-banner.jpg' type='image'></a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akinpinkman&label=Profile%20views&color=0e75b6&style=flat" alt="akinpinkman" /> </p>
+
 # 💫 About Me:
-🌱 I’m currently learning Typescript<br><br>👨‍💻 All of my projects are available at My Portfolio<br><br>💬 Ask me about React, Javascript, CSS<br><br>📫 How to reach me akinbilgin@akinbilginwriting.com<br><br>
-[![](https://visitcount.itsvg.in/api?id=akinpinkman&icon=0&color=0)](https://visitcount.itsvg.in)
+🌱 I’m currently learning Typescript<br><br>👨‍💻 All of my projects are available at My Portfolio<br><br>💬 Ask me about React, Javascript, CSS<br><br>📫 How to reach me akinbilgin@akinbilginwriting.com
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/akinpinkman) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akinbilgin) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/akinpinkman) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/akinnpinkmann) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/akinpinkman) 
@@ -23,3 +24,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=akinpinkman&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=akinpinkman&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
