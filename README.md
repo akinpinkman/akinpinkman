@@ -2,12 +2,12 @@
 <h3 align="center">I am a React Developer living in Turkey. Apart from being a developer, I write guides and articles about games.</h3>
 <a href='https://www.linkpicture.com/view.php?img=LPic64fd886c47418897298564'><img src='https://www.linkpicture.com/q/github-banner.jpg' type='image'></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akinpinkman&label=Profile%20views&color=0e75b6&style=flat" alt="akinpinkman" /> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akinpinkman" alt="akinpinkman" /></a> </p>
 
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [WORK IN PROGRESS](WORK IN PROGRESS)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://akinpinkman.github.io/akin-bilgin-react-portfolio/)
 
 - 💬 Ask me about **React, Javascript, CSS**
 
