@@ -4,7 +4,7 @@
 <a href='https://www.linkpicture.com/view.php?img=LPic64fd886c47418897298564'><img src='https://www.linkpicture.com/q/github-banner.jpg' type='image'></a>
 
 # 💫 About Me:
-🌱 I’m currently learning Typescript<br><br>👨‍💻 All of my projects are available at My Portfolio<br><br>💬 Ask me about React, Javascript, CSS<br><br>📫 How to reach me akinbilgin@akinbilginwriting.com
+🌱 I’m currently learning Typescript<br><br>👨‍💻 All of my projects are available at [My Portfolio](https://akinpinkman.github.io/akin-bilgin-react-portfolio/).<br><br>💬 Ask me about React, Javascript, CSS<br><br>📫 How to reach me akinbilgin@akinbilginwriting.com
 
 
 ## 🌐 Socials:
