@@ -21,7 +21,7 @@
 <br/>  
 
 <div align="center"> <h3> 🏆 GitHub Trophies </h3></div>
-<p align="center"> <a style="margin:10px" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akinpinkman" alt="akinpinkman" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akinpinkman" alt="akinpinkman" /></a> </p>
 
 <div align="center"> <h2> My Skill Set </h2></div>
 <table><tr><td valign="top" width="33%">
@@ -88,9 +88,14 @@
 
 
 <div align="center"> <h2>Github Stats</h2> </div>
-![](https://github-readme-stats.vercel.app/api?username=akinpinkman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p><img align="left" src="(https://github-readme-stats.vercel.app/api?username=akinpinkman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="akinpinkman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akinpinkman&" alt="akinpinkman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akinpinkman&show_icons=true&locale=en" alt="akinpinkman" /></p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akinpinkman&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akinpinkman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
 
 <br/>  
 <br/>  
