@@ -21,7 +21,7 @@
 <br/>  
 
 <div align="center"> <h3> 🏆 GitHub Trophies </h3></div>
-<p align="center"> <a style="gap:10px" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akinpinkman" alt="akinpinkman" /></a> </p>
+<p align="center"> <a style="margin:10px" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akinpinkman" alt="akinpinkman" /></a> </p>
 
 <div align="center"> <h2> My Skill Set </h2></div>
 <table><tr><td valign="top" width="33%">
