@@ -111,5 +111,5 @@
 
 <div align="center"></div>
 <br />
-
+[![](https://visitcount.itsvg.in/api?id=akinpinkman&icon=0&color=12)](https://visitcount.itsvg.in)
 ----
