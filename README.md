@@ -21,12 +21,12 @@
 <br/>  
 
 
-## My Skill Set  
+<div align="center"> ## My Skill Set </div>
 <table><tr><td valign="top" width="33%">
 
 
 
-### Frontend  
+<div align="center"> ### Frontend </div>
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -41,7 +41,7 @@
 
 
 
-### Backend  
+<div align="center"> ### Backend </div>
 <div align="center">  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
@@ -54,7 +54,7 @@
 
 
 
-### DevOps  
+<div align="center"> ### DevOps </div>
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
@@ -65,7 +65,7 @@
 <br/>  
 
 
-## Connect with me  
+<div align="center"> ## Connect with me </div>
 <div align="center">
 <a href="https://github.com/akinpinkman" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -85,7 +85,7 @@
 <br/>  
 
 
-## Github Stats  
+<div align="center"> ## Github Stats </div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=akinpinkman&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
