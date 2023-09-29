@@ -88,7 +88,7 @@
 
 
 <div align="center"> <h2>Github Stats</h2> </div>
-<p align="center"&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akinpinkman&show_icons=true&locale=en" alt="akinpinkman" /></p>
+<p align="center"<img align="center" src="https://github-readme-stats.vercel.app/api?username=akinpinkman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="akinpinkman" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akinpinkman&" alt="akinpinkman" /></p>
 
 <br/>  
