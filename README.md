@@ -91,11 +91,12 @@
 <br/>  
 <br/>  
 
+<div align="center"><h2>Currently Listening</h2></div>
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=213hp6gizrgr6n3lzet4sedna&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" /></div>  
 
 <br/>  
 
-<div align="center"><h2>Currently Listening</h2>
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=akinpinkman&&style=flat-square" align="center" />
 </div>  
   
