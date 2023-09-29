@@ -88,9 +88,9 @@
 
 
 <div align="center"> <h2>Github Stats</h2> </div>
-<p><img align="left" src="(https://github-readme-stats.vercel.app/api?username=akinpinkman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="akinpinkman" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akinpinkman&" alt="akinpinkman" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akinpinkman&show_icons=true&locale=en" alt="akinpinkman" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akinpinkman&" alt="akinpinkman" /></p>
+
 
 
 
