@@ -3,7 +3,7 @@
 </div>  
   
 
-<div align="center"> <h1>My name is Akın, and I'm a React Developer from Turkey</h1></div>  
+<div align="center"> <h1>My name is Akın, and I'm a React Developer from Turkey.</h1></div>  
   
 
 - 🔭 I’m currently contributing to open-source projects  
