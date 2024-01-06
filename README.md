@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://camo.githubusercontent.com/fc6523033d4f681a75ce50c2e701b439984ddc476c5916096ed7ec211202edb6/68747470733a2f2f7777772e6c696e6b706963747572652e636f6d2f712f6769746875622d62616e6e65722e6a7067" align="center" style="width: 100%" />
-</div>  
+
   
 
 <div align="center"> <h1>My name is Akın, and I'm a React Developer from Turkey</h1></div>  
